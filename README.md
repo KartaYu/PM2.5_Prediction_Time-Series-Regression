@@ -6,7 +6,8 @@
 1. Fill missing data
     * fill with mean of previous value and next value
 2. Transpose Dataframe
-3. Data split and prediction target
+![image](https://github.com/KartaYu/PM2.5_Prediction_Time-Series-Regression/blob/main/Pic/transpose.png)
+4. Data split and prediction target
     * Using all feature labels to predict next hour result.
     * Only using PM2.5 label to predict next hour result.
     * Using all feature labels to predict six hours later result.
@@ -25,3 +26,4 @@
     * MAE of using PM2.5 label to predict next hour result : 2.676
     * MAE of using all feature labels to predict six hours later result : 4.756
     * MAE of using PM2.5 label to predict six hours later result : 4.910
+![image](https://github.com/KartaYu/PM2.5_Prediction_Time-Series-Regression/blob/main/Pic/MAE.png)
