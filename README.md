@@ -1,4 +1,4 @@
-# PM2.5 Prediction Of Hsinchu| Time Series Regression
+# PM2.5 Air Quality Prediction Of Hsinchu| Time Series Regression
 ### Data Source
 - Link : 空氣監測品質網 <https://airtw.epa.gov.tw/CHT/Query/His_Data.aspx>
 - Using October and November air quality data to predict December value.
